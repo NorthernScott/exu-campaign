@@ -1,9 +1,11 @@
 ---
 title: Ground Rules
 date created: Sunday, March 16th 2025, 2:06:05 pm
-date modified: Sunday, March 30th 2025, 4:36:49 pm
+date modified: Monday, March 31st 2025, 9:52:57 pm
+aliases: []
 tags:
   - rules
+references: 
 share: true
 ---
 
