@@ -1,9 +1,12 @@
 ---
 title: Map of the World
 date created: Sunday, March 23rd 2025, 6:57:30 pm
-date modified: Sunday, March 30th 2025, 4:38:37 pm
-tags:
+date modified: Monday, March 31st 2025, 9:53:34 pm
+aliases:
   - atlas
+  - world map
+tags:
+  - geography
 references: 
 share: true
 ---
