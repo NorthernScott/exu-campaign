@@ -1,9 +1,11 @@
 ---
 title: House Rules & Clarifications
 date created: Sunday, March 16th 2025, 5:00:55 pm
-date modified: Sunday, March 30th 2025, 4:36:34 pm
+date modified: Monday, March 31st 2025, 9:52:57 pm
+aliases: []
 tags:
   - rules
+references: 
 share: true
 ---
 
